@@ -1,5 +1,5 @@
 ---
-title: "小狄同学呀 | 开源，共享，教育教学，引领技术发展"
+title: "Covi-shared-files"
 layout: "hextra-home"
 ---
 
@@ -11,7 +11,7 @@ layout: "hextra-home"
 
 <div class="hx:mt-6 hx:mb-6">
 {{< hextra/hero-headline >}}
-  小狄同学呀&nbsp;<br class="hx:sm:block hx:hidden" />WTFPL协议狂热爱好者
+  Covi-shared-files&nbsp;<br class="hx:sm:block hx:hidden" />WTFPL协议狂热爱好者
 {{< /hextra/hero-headline >}}
 </div>
 
