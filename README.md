@@ -1,2 +1,3 @@
-# Covi-shared-files.github.io
-Covi-shared-files的官方网站
+# Coviの技术神殿
+
+本组织github page，搭建自[小狄同学呀](https://github.com/xiaoditx/)
